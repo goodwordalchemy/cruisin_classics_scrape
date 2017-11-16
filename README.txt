@@ -1,0 +1,1 @@
+Cruising Classics is this set of oldies tapes that my mom bought at a chevron when I was a kid and that we listened to all the time.  I wanted to make a playlist on Spotify with all of the tracks on those songs, so I scraped a website that had the discogrophy and then generated that playlist with the spotify api.
